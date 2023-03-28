@@ -1,0 +1,2 @@
+# DesafioApiRickeMorty
+Created with CodeSandbox
